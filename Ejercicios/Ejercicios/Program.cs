@@ -39,6 +39,10 @@ namespace Ejercicios
                     Ejercicio1 ej1 = new Ejercicio1();
                     ej1.Ejercicio();
                     break;
+                case "2":
+                    Ejercicio2 ej2 = new Ejercicio2();
+                    ej2.Ejercicio();
+                    break;
 
             }
         }
