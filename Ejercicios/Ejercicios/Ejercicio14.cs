@@ -18,7 +18,14 @@ namespace Ejercicios
 
                 vector[i] = r.Next(1, 11);
             }
-            EncontrarNumero(vector);
+            if (EncontrarNumero(vector))
+            {
+                Console.WriteLine("El numero esta en la lista");
+            }
+            else
+            {
+                Console.WriteLine("El numero no esta en la lista");
+            }
             
         }
         public bool EncontrarNumero (int[] vector)
