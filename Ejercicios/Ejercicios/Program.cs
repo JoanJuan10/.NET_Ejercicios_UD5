@@ -43,6 +43,10 @@ namespace Ejercicios
                     Ejercicio2 ej2 = new Ejercicio2();
                     ej2.Ejercicio();
                     break;
+                case "3":
+                    Ejercicio3 ej3 = new Ejercicio3();
+                    ej3.Ejercicio();
+                    break;
 
             }
         }
