@@ -99,6 +99,10 @@ namespace Ejercicios
                     Ejercicio16 ej16 = new Ejercicio16();
                     ej16.Ejercicio();
                     break;
+                case "17":
+                    Ejercicio17 ej17 = new Ejercicio17();
+                    ej17.Ejercicio();
+                    break;
 
             }
         }
