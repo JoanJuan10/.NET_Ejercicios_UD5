@@ -26,8 +26,6 @@ namespace Ejercicios
                 }
             }
             
-            int none = 0;
-            
         }
         /*
          * Procedimiento para obtener un numero aleatorio
